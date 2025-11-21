@@ -8,5 +8,5 @@
 ## Conteúdo
 
 *   [Parte 1: Implementação em Python](./parte1)
-*   [Parte 2: Implementação em C# (.NET) com API](./parte2)
+*   [Parte 2: Implementação em C# (.NET) de uma API](./parte2)
 
