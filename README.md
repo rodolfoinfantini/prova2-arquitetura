@@ -5,6 +5,21 @@
 *   **Nome:** Marcella Pereira de Brito | **RA:** 23008631
 *   **Nome:** David dos Santos Moreno | **RA:** 23022082
 
+## Instruções
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/rodolfoinfantini/prova2-arquitetura rodolfo-marcella-david
+```
+
+2. Entre na pasta:
+```bash
+cd rodolfo-marcella-david
+```
+
+3. Leia os READMEs de cada parte.
+
+
 ## Conteúdo
 
 *   [Parte 1: Implementação em Python](./parte1)
