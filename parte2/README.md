@@ -11,7 +11,7 @@ A aplicação simula um backend para criação e gerenciamento de pedidos, permi
 
 ## Instruções de Execução
 
-1. Navegue até a pasta raiz do projeto via terminal (paste que este README se encontra):
+1. Navegue até a pasta raiz do projeto via terminal (**pasta que este README se encontra**):
    ```bash
    cd parte2
    ```
