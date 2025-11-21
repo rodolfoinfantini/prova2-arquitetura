@@ -3,6 +3,8 @@
 *   **Nome:** Marcella Pereira de Brito | **RA:** 23008631
 *   **Nome:** David dos Santos Moreno | **RA:** 23022082
 
+Projeto também feito manuscrito, no arquivo [PDF](manuscrito.pdf)
+
 # Instruções
 
 Para rodar o projeto, execute:
