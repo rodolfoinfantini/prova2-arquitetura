@@ -11,6 +11,11 @@ A aplicação simula um backend para criação e gerenciamento de pedidos, permi
 
 ## Instruções de Execução
 
+1. Navegue até a pasta raiz do projeto via terminal (paste que este README se encontra):
+   ```bash
+   cd parte2
+   ```
+
 ### Executando com Docker
 
 1. Construa a imagem Docker:
@@ -27,11 +32,6 @@ A aplicação simula um backend para criação e gerenciamento de pedidos, permi
 
 1. Instale o [.NET SDK](https://dotnet.microsoft.com/download)
 
-1. Navegue até a pasta raiz do projeto via terminal:
-   ```bash
-   cd /caminho/para/Efc2
-   ```
-
 2. Execute o projeto:
    ```bash
    dotnet run --project Efc2/Efc2.csproj
@@ -39,7 +39,7 @@ A aplicação simula um backend para criação e gerenciamento de pedidos, permi
 
 3. Ou então rode os testes unitários:
    ```bash
-   dotnet test Efc2.Tests/ --logger "console;verbosity=detailed"
+   dotnet test Efc2.Tests/Efc2.Tests.csproj --logger "console;verbosity=detailed"
    ```
 
 ### Acesse a documentação (Swagger) para testar os endpoints:
