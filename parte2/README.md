@@ -43,7 +43,7 @@ A aplicação simula um backend para criação e gerenciamento de pedidos, permi
    ```
 
 ### Acesse a documentação (Swagger) para testar os endpoints:
-   - Disponível em: `http://localhost:5000/swagger`
+   - Disponível em: [http://localhost:5000/swagger](http://localhost:5000/swagger)
    - Olhar os logs no terminal da aplicação.
 
 ---
